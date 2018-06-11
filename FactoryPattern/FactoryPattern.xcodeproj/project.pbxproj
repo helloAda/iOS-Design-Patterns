@@ -119,8 +119,6 @@
 				77100B8B20CCD10D00EE6B89 /* AppDelegate.m */,
 				77100B8D20CCD10D00EE6B89 /* ViewController.h */,
 				77100B8E20CCD10D00EE6B89 /* ViewController.m */,
-				77100BBD20CCD41600EE6B89 /* BaseDevice.h */,
-				77100BBE20CCD41600EE6B89 /* BaseDevice.m */,
 				77100BC020CCD49300EE6B89 /* DeviceCreator.h */,
 				77100BC120CCD49300EE6B89 /* DeviceCreator.m */,
 				77100BC920CCD7C500EE6B89 /* DeviceProtocol.h */,
@@ -154,6 +152,8 @@
 		77100BBC20CCD1CB00EE6B89 /* Devices */ = {
 			isa = PBXGroup;
 			children = (
+				77100BBD20CCD41600EE6B89 /* BaseDevice.h */,
+				77100BBE20CCD41600EE6B89 /* BaseDevice.m */,
 				77100BC320CCD76600EE6B89 /* DeviceiPhone.h */,
 				77100BC420CCD76600EE6B89 /* DeviceiPhone.m */,
 				77100BC620CCD78F00EE6B89 /* DeviceAndroid.h */,
