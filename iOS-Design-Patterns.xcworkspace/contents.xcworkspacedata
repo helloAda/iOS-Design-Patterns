@@ -16,4 +16,7 @@
    <FileRef
       location = "group:ObserverPattern/ObserverPattern.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:SingletonPattern/SingletonPattern.xcodeproj">
+   </FileRef>
 </Workspace>
