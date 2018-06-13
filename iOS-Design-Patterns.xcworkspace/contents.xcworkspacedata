@@ -19,4 +19,7 @@
    <FileRef
       location = "group:SingletonPattern/SingletonPattern.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:DecoratorPattern/DecoratorPattern.xcodeproj">
+   </FileRef>
 </Workspace>
